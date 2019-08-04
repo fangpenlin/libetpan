@@ -122,7 +122,7 @@ extern "C" {
 #include <libetpan/mailprivacy_smime.h>
 
 /* utils */
-#include <libetpan/mailimap_parse.h>
+#include <libetpan/mailimap_parser.h>
 
 #ifdef __cplusplus
 }

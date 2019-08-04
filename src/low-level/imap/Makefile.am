@@ -35,6 +35,7 @@ etpaninclude_HEADERS = \
 	mailimap_helper.h mailimap.h \
 	mailimap_types.h mailimap_types_helper.h \
 	mailimap_socket.h mailimap_ssl.h \
+	mailimap_parser.h \
 	mailimap_extension.h mailimap_extension_types.h \
 	annotatemore.h annotatemore_types.h \
 	acl.h acl_types.h \
