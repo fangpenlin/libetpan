@@ -97,7 +97,7 @@ src\low-level\imap\mailimap_helper.h
 src\low-level\imap\mailimap_id.h
 src\low-level\imap\mailimap_id_types.h
 src\low-level\imap\mailimap_oauth2.h
-src\low-level\imap\mailimap_parse.h
+src\low-level\imap\mailimap_parser.h
 src\low-level\imap\mailimap_socket.h
 src\low-level\imap\mailimap_sort.h
 src\low-level\imap\mailimap_sort_types.h
